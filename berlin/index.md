@@ -12,7 +12,7 @@ image:
 
 Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
 
-## Minimal Mistakes is alllll about:
+## Cose da fare a Berlino:
 
 * Responsive templates. Looking good on mobile, tablet, and desktop.
 * Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
