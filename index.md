@@ -1,9 +1,7 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "I (infruquently) blog about data science, business intelligence, big data, web technologies and free software."
+tags: [data science, business intelligence, big data, web technologies, free software]
 image:
-  feature: web-header-1.jpg
-  #credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: old-days-of-technology.jpg
 ---

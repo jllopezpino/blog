@@ -1,13 +1,12 @@
 # Site wide configuration
 
-title:            Visitare
-locale:           it_IT
-url:              http://jllopezpino.github.io/visitare/
-
+title:            JOSÉ LUIS LÓPEZ PINO
+locale:           en_UK
+url:              http://jllopezpino.github.io/blog/
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /:year/:month/:day/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
@@ -26,12 +25,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Pino
+  avatar: jose_luis_lopez_pino.jpg
+  bio: "I (infruquently) blog about data science, business intelligence, big data, web technologies and free software."
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: jllopezpino
   facebook: #username
   google:
     plus: #username
@@ -42,7 +41,7 @@ owner:
   bing-verify:
   github: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: jllopezpino
   xing: #username
   instagram: #username
   lastfm: #username
