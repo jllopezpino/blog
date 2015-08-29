@@ -6,6 +6,7 @@ date: 2010-07-13 14:30:38+00:00
 layout: post
 slug: web-security-testing-cookbook
 title: Web Security Testing Cookbook
+locale: es_ES
 wordpress_id: 251
 categories:
 - Libros

@@ -6,6 +6,7 @@ date: 2011-07-11 21:26:24+00:00
 layout: post
 slug: experiencia-en-la-glasgow-caledonian-university
 title: Experiencia en la Glasgow Caledonian University
+locale: es_ES
 wordpress_id: 600
 categories:
 - Erasmus

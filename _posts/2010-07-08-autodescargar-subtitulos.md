@@ -6,6 +6,7 @@ date: 2010-07-08 19:33:03+00:00
 layout: post
 slug: autodescargar-subtitulos
 title: Autodescargar subtítulos de TVSubtitles
+locale: es_ES
 wordpress_id: 24
 categories:
 - Ocio

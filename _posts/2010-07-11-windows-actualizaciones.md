@@ -6,6 +6,7 @@ date: 2010-07-11 19:27:06+00:00
 layout: post
 slug: windows-actualizaciones
 title: Windows y las actualizaciones
+locale: es_ES
 wordpress_id: 28
 categories:
 - Seguridad

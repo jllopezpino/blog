@@ -6,6 +6,7 @@ date: 2010-07-13 21:24:15+00:00
 layout: post
 slug: consejos-basicos-sobre-seguridad-web
 title: Consejos básicos sobre seguridad web
+locale: es_ES
 wordpress_id: 243
 categories:
 - Seguridad

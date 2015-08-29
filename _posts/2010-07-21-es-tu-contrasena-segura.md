@@ -6,6 +6,7 @@ date: 2010-07-21 08:30:31+00:00
 layout: post
 slug: es-tu-contrasena-segura
 title: ¿Es tu contraseña segura?
+locale: es_ES
 wordpress_id: 370
 categories:
 - Seguridad

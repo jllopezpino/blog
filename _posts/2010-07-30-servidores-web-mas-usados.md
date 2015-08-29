@@ -6,6 +6,7 @@ date: 2010-07-30 10:41:51+00:00
 layout: post
 slug: servidores-web-mas-usados
 title: Servidores web más usados
+locale: es_ES
 wordpress_id: 389
 categories:
 - Web

@@ -7,6 +7,7 @@ layout: post
 excerpt: "Comparativa de precios entre los distintos servicios de VoIP (llamadas por Internet)."
 slug: tarifas-voip
 title: Tarifas VoIP
+locale: es_ES
 wordpress_id: 466
 categories:
 - Ocio

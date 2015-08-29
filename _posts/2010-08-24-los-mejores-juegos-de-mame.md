@@ -5,7 +5,9 @@ image:
 date: 2010-08-24 10:26:37+00:00
 layout: post
 slug: los-mejores-juegos-de-mame
+locale: es_ES
 title: Los mejores juegos de MAME
+locale: es_ES
 wordpress_id: 27
 categories:
 - Ocio

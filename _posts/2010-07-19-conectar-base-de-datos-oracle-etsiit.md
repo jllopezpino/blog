@@ -6,6 +6,7 @@ date: 2010-07-19 13:28:57+00:00
 layout: post
 slug: conectar-base-de-datos-oracle-etsiit
 title: Conectar a la base de datos Oracle de la ETSIIT en Linux
+locale: es_ES
 wordpress_id: 3
 categories:
 - General

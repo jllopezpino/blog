@@ -6,6 +6,7 @@ date: 2010-09-22 19:58:59+00:00
 layout: post
 slug: '%c2%bfryanair-o-easyjet'
 title: ¿Ryanair o EasyJet?
+locale: es_ES
 wordpress_id: 435
 categories:
 - Ocio

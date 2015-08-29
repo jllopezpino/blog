@@ -6,6 +6,7 @@ date: 2010-08-10 13:48:50+00:00
 layout: post
 slug: principales-destinos-erasmus
 title: Principales destinos Erasmus
+locale: es_ES
 wordpress_id: 411
 categories:
 - General

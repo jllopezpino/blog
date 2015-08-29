@@ -7,6 +7,7 @@ layout: post
 slug: hello-glasgo
 excerpt: ""
 title: Hello Glasgow!
+locale: es_ES
 wordpress_id: 460
 categories:
 - Erasmus

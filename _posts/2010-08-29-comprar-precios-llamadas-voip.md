@@ -6,6 +6,7 @@ date: 2010-08-29 13:41:01+00:00
 layout: post
 slug: comprar-precios-llamadas-voip
 title: Comparar precios de llamadas VoIP
+locale: es_ES
 wordpress_id: 509
 categories:
 - Ocio

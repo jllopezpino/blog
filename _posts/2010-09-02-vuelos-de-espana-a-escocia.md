@@ -6,6 +6,7 @@ date: 2010-09-02 22:18:04+00:00
 layout: post
 slug: vuelos-de-espana-a-escocia
 title: Vuelos de España a Escocia
+locale: es_ES
 wordpress_id: 483
 categories:
 - Escocia

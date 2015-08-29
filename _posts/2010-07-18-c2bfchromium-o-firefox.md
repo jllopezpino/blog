@@ -6,6 +6,7 @@ date: 2010-07-18 12:00:33+00:00
 layout: post
 slug: '%c2%bfchromium-o-firefox'
 title: ¿Chromium o Firefox?
+locale: es_ES
 wordpress_id: 301
 categories:
 - Software Libre

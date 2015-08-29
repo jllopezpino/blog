@@ -6,6 +6,7 @@ date: 2010-07-07 12:26:02+00:00
 layout: post
 slug: autodescargar-series
 title: Autodescargar series
+locale: es_ES
 wordpress_id: 21
 categories:
 - Ocio
