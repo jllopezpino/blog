@@ -2,7 +2,7 @@
 comments: true
 image:
     feature: old-days-of-technology.jpg
-date: 2010-07-04 23:15:52+00:00
+date: 2010-07-05 23:15:52+00:00
 layout: post
 # slug: por-que-no-iba-yo-a-tener-un-blog
 title: ¿Por qué no iba yo a tener un blog?
