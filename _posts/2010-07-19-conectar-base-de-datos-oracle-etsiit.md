@@ -164,6 +164,3 @@ Otros enlaces interesantes relacionados:
   * [Interesantes manuales de bases de datos](http://www.jorgesanchez.net/bd/index.html).
 
 
-
-
-pbd =(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=oracle0.ugr.es)(PORT=1521)))(CONNECT_DATA=(SID=PRACTBD)))
