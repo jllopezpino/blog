@@ -5,7 +5,7 @@ image:
 date: 2010-08-26 23:22:28+00:00
 layout: post
 excerpt: "Comparativa de precios entre los distintos servicios de VoIP (llamadas por Internet)."
-slug: tarifas_voip
+# slug: tarifas-voip
 title: Tarifas VoIP
 locale: es_ES
 wordpress_id: 466

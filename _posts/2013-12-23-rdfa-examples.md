@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some RDFa examples
-slug: rdfa_examples
+# slug: rdfa-examples
 excerpt: "Some examples on how RDFa can be used to store metadata."
 tags: [business intelligence, it4bi, metadata, rdfa, xml]
 modified: 2013-12-23

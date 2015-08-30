@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-07-13 21:24:15+00:00
 layout: post
-slug: consejos_basicos_sobre_seguridad_web
+# slug: consejos-basicos-sobre-seguridad-web
 title: Consejos básicos sobre seguridad web
 locale: es_ES
 wordpress_id: 243

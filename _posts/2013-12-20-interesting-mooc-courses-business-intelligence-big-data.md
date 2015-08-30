@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2013-12-20 17:05:11+00:00
 layout: post
-slug: interesting_mooc_courses_business_intelligence_big_data
+# slug: interesting-mooc-courses-business-intelligence-big-data
 title: Interesting MOOCs related to Data Science, Business Intelligence and Big Data
 categories:
 - Big Data

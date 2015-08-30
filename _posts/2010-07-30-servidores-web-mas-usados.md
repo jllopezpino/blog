@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-07-30 10:41:51+00:00
 layout: post
-slug: servidores_web_mas_usados
+# slug: servidores-web-mas-usados
 title: Servidores web más usados
 locale: es_ES
 wordpress_id: 389

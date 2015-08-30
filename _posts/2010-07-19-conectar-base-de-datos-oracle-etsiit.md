@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-07-19 13:28:57+00:00
 layout: post
-slug: conectar_base_de_datos_oracle_etsiit
+# slug: conectar-base-de-datos-oracle-etsiit
 title: Conectar a la base de datos Oracle de la ETSIIT en Linux
 locale: es_ES
 wordpress_id: 3

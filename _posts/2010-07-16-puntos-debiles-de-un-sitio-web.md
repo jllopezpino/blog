@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-07-16 10:00:51+00:00
 layout: post
-slug: puntos_debiles_de_un_sitio_web
+# slug: puntos-debiles-de-un-sitio-web
 title: Puntos débiles de un sitio web
 locale: es_ES
 wordpress_id: 248

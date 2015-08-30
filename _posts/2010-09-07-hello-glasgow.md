@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-09-07 20:43:26+00:00
 layout: post
-slug: hello_glasgo
+# slug: hello-glasgow
 excerpt: ""
 title: Hello Glasgow!
 locale: es_ES
@@ -12,7 +12,7 @@ wordpress_id: 460
 categories:
 - Erasmus
 tags:
-- computing
+- -
 - escocia
 - estudios
 - glasgow
@@ -28,6 +28,6 @@ tags:
 </figure>
 
 
-Esta entrada y está programada y, si todo ha salido bien, ahora mismo debería estar en [Glasgow](http://en.wikipedia.org/wiki/Glasgow) (Escocia), preparándome para estudiar [Computing (Web Systems Development)](http://www.gcu.ac.uk/study/undergraduate/courses/computing-web-systems-development-8466.php) como alumno de intercambio.
+Esta entrada y está programada y, si todo ha salido bien, ahora mismo debería estar en [Glasgow](http://en.wikipedia.org/wiki/Glasgow) (Escocia), preparándome para estudiar [Computing (Web Systems Development)](http://www.gcu.ac.uk/study/undergraduate/courses/--web-systems-development-8466.php) como alumno de intercambio.
 
 Será un año duro en un país con un clima tan diferente al nuestro, pero espero que merezca la pena para poder estudiar lo que más me gusta.

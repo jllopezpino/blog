@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-09-02 22:18:04+00:00
 layout: post
-slug: vuelos_de_espana_a_escocia
+# slug: vuelos-de-espana-a-escocia
 title: Vuelos de España a Escocia
 locale: es_ES
 wordpress_id: 483
@@ -16,7 +16,7 @@ tags:
 - airport
 - edimburgo
 - edinburgh
-- glasgow
+- -
 - low cost
 - prestwick
 - ryanair
@@ -36,8 +36,8 @@ La famosa compañía **low cost** vuela normalmente a **Alicante**, **Fuertevent
 
 
 <figure>
-	<a href="http://www.airlineroutemaps.com/Europe/Ryanair_glasgow.shtml">
-        <img src="http://jllopezpino.files.wordpress.com/2010/08/ryanair_glasgow.png">
+	<a href="http://www.airlineroutemaps.com/Europe/Ryanair_-.shtml">
+        <img src="http://jllopezpino.files.wordpress.com/2010/08/ryanair_-.png">
     </a>
 	<figcaption>Mapa de vuelos desde Glasgow Prestwick con Ryanair, por Airline Route Maps</figcaption>
 </figure>

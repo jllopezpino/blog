@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-09-15 10:37:33+00:00
 layout: post
-slug: evitar_firewall_pidgin
+# slug: evitar-firewall-pidgin
 title: Evitar un firewall con Pidgin
 excerpt: "Cómo utilizar Piding, el cliente para chat y mensajería instantánea libre, cuando algunas empresas e instituciones filtran mediante un firewall el tráfico"
 locale: es_ES

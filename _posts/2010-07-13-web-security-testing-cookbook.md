@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-07-13 14:30:38+00:00
 layout: post
-slug: web_security_testing_cookbook
+# slug: web-security-testing-cookbook
 title: Web Security Testing Cookbook
 locale: es_ES
 wordpress_id: 251

@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-07-15 09:02:04+00:00
 layout: post
-slug: consejos_para_navegar
+# slug: consejos-para-navegar
 title: Consejos para navegar
 locale: es_ES
 wordpress_id: 290

@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-09-05 08:47:43+00:00
 layout: post
-slug: descomprimir_ficheros_zip_en_django
+# slug: descomprimir-ficheros-zip-en-django
 title: Descomprimir ficheros zip en Django
 locale: es_ES
 wordpress_id: 546

@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-07-17 13:03:14+00:00
 layout: post
-slug: buscadores
+# slug: buscadores
 title: Buscadores y uso de ellos
 locale: es_ES
 wordpress_id: 155

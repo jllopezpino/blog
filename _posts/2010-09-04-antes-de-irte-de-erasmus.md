@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-09-04 13:38:28+00:00
 layout: post
-slug: antes_de_irte_de_erasmus
+# slug: antes-de-irte-de-erasmus
 title: Antes de irte de Erasmus...
 locale: es_ES
 wordpress_id: 448

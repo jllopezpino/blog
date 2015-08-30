@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-09-01 23:44:48+00:00
 layout: post
-slug: lo_que_mas_echo_de_menos_en_chromium
+# slug: lo-que-mas-echo-de-menos-en-chromium
 title: Lo qué más echo de menos en Chromium
 locale: es_ES
 wordpress_id: 440

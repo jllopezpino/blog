@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-10-02 15:33:36+00:00
 layout: post
-slug: autodescargar_subtitulos_de_subtitulos_es
+# slug: autodescargar-subtitulos-de-subtitulos-es
 title: Autodescargar subtítulos de Subtitulos.es
 locale: es_ES
 wordpress_id: 592
