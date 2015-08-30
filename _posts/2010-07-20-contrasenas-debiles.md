@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-07-20 11:00:06+00:00
 layout: post
-slug: contrasenas-debiles
+slug: contrasenas_debiles
 title: Contraseñas débiles
 locale: es_ES
 wordpress_id: 282

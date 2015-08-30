@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-07-21 08:30:31+00:00
 layout: post
-slug: es-tu-contrasena-segura
+slug: es_tu_contrasena_segura
 title: ¿Es tu contraseña segura?
 locale: es_ES
 wordpress_id: 370

@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2013-12-16 11:47:30+00:00
 layout: post
-slug: talend-open-studio-data-integration-postgresql-on-ubuntu
+slug: talend_open_studio_data_integration_postgresql_on_ubuntu
 title: Getting started with Talend Open Studio Data Integration and PostgreSQL on
   Ubuntu
 wordpress_id: 662

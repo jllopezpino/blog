@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-07-14 09:00:43+00:00
 layout: post
-slug: extensiones-para-firefox
+slug: extensiones_para_firefox
 title: Extensiones para Firefox
 locale: es_ES
 wordpress_id: 292

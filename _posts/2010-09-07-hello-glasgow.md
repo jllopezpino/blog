@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-09-07 20:43:26+00:00
 layout: post
-slug: hello-glasgo
+slug: hello_glasgo
 excerpt: ""
 title: Hello Glasgow!
 locale: es_ES

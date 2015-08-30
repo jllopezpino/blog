@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-08-10 13:48:50+00:00
 layout: post
-slug: principales-destinos-erasmus
+slug: principales_destinos_erasmus
 title: Principales destinos Erasmus
 locale: es_ES
 wordpress_id: 411

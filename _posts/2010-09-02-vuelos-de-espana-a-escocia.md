@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-09-02 22:18:04+00:00
 layout: post
-slug: vuelos-de-espana-a-escocia
+slug: vuelos_de_espana_a_escocia
 title: Vuelos de España a Escocia
 locale: es_ES
 wordpress_id: 483

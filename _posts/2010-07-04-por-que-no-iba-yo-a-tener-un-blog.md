@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-07-04 23:15:52+00:00
 layout: post
-slug: por-que-no-iba-yo-a-tener-un-blog
+slug: por_que_no_iba_yo_a_tener_un_blog
 title: ¿Por qué no iba yo a tener un blog?
 locale: es_ES
 wordpress_id: 195

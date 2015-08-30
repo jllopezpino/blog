@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-08-01 08:00:25+00:00
 layout: post
-slug: security-in-a-web-2-0-world
+slug: security_in_a_web_2_0_world
 title: Security in a Web 2.0+ World
 locale: es_ES
 wordpress_id: 333

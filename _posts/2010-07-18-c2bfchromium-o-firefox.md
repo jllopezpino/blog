@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-07-18 12:00:33+00:00
 layout: post
-slug: '%c2%bfchromium-o-firefox'
+slug: '%c2%bfchromium_o_firefox'
 title: ¿Chromium o Firefox?
 locale: es_ES
 wordpress_id: 301

@@ -4,7 +4,7 @@ image:
     feature: old-days-of-technology.jpg
 date: 2010-07-05 15:09:28+00:00
 layout: post
-slug: esteganografia-informacion-oculta
+slug: esteganografia_informacion_oculta
 title: Esteganografía, información oculta
 locale: es_ES
 wordpress_id: 88
