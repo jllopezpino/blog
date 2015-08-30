@@ -33,11 +33,6 @@ La compañía inglesa [Netcraft](http://news.netcraft.com/) realiza mensualmente
 
 
 
-### 
-
-
-
-
 ### Apache
 
 

@@ -37,14 +37,10 @@ La famosa compañía **low cost** vuela normalmente a **Alicante**, **Fuertevent
 
 <figure>
 	<a href="http://www.airlineroutemaps.com/Europe/Ryanair_-.shtml">
-        <img src="http://jllopezpino.files.wordpress.com/2010/08/ryanair_-.png">
+        <img src="http://jllopezpino.files.wordpress.com/2010/08/ryanair_glasgow.png">
     </a>
 	<figcaption>Mapa de vuelos desde Glasgow Prestwick con Ryanair, por Airline Route Maps</figcaption>
 </figure>
-
-
-### 
-
 
 
 
