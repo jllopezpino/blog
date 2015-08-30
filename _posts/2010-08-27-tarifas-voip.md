@@ -2,7 +2,7 @@
 comments: true
 image:
     feature: old-days-of-technology.jpg
-date: 2010-08-26 23:22:28+00:00
+date: 2010-08-27 23:22:28+00:00
 layout: post
 excerpt: "Comparativa de precios entre los distintos servicios de VoIP (llamadas por Internet)."
 # slug: tarifas-voip
