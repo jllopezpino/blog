@@ -70,3 +70,7 @@ tags:
   * [I "Heart" Stats: Learning to Love Statistics](https://www.edx.org/course/i-heart-stats-learning-love-statistics-notredamex-soc120x).
   * [Data Visualization and D3.js: Communicating with Data](https://www.udacity.com/course/data-visualization-and-d3js--ud507).
   * [Developing Data Products](https://www.coursera.org/course/devdataprod).
+  * [Data Science and Machine Learning Essentials](https://www.edx.org/course/data-science-machine-learning-essentials-microsoft-dat203x).
+  * [Statistics for Business I](https://www.edx.org/course/statistics-business-i-iimbx-qm101-1x) and [Statistics for Business II](https://www.edx.org/course/statistics-business-ii-iimbx-qm101-2x).
+  * [Introduction to R programming](https://www.edx.org/course/introduction-r-programming-microsoft-dat204x-0).
+  * [Advanced Statistics for the Life Sciences](https://www.edx.org/course/advanced-statistics-life-sciences-harvardx-ph525-3x)
