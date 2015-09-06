@@ -74,3 +74,9 @@ tags:
   * [Statistics for Business I](https://www.edx.org/course/statistics-business-i-iimbx-qm101-1x) and [Statistics for Business II](https://www.edx.org/course/statistics-business-ii-iimbx-qm101-2x).
   * [Introduction to R programming](https://www.edx.org/course/introduction-r-programming-microsoft-dat204x-0).
   * [Advanced Statistics for the Life Sciences](https://www.edx.org/course/advanced-statistics-life-sciences-harvardx-ph525-3x)
+  * [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomics)
+  * [Regression Models](https://www.coursera.org/course/regmods)
+  * [Applied Regression Analysis](https://www.coursera.org/course/appliedregression)
+  * [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau)
+  * [A Crash Course in Data Science](https://www.coursera.org/learn/data-science-crash-course)
+  * [Introduction to Natural Language Processing](https://www.coursera.org/course/nlpintro)
