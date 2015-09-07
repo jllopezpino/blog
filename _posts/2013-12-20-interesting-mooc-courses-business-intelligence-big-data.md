@@ -80,3 +80,4 @@ tags:
   * [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau)
   * [A Crash Course in Data Science](https://www.coursera.org/learn/data-science-crash-course)
   * [Introduction to Natural Language Processing](https://www.coursera.org/course/nlpintro)
+  * [Statistical Inference](https://www.coursera.org/course/statinference)
