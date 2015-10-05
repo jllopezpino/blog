@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 75+ online resources to boost your data science and analysis skills
+title: 75+ free online resources to boost your data science and analysis skills
 excerpt: "Compilation of links to posts, tutorials, video lectures and workshops that either [I've shared on Twitter](https://twitter.com/jllopezpino) in the last couple of years or I have in my bookmarks."
 tags: [online resouces, data science, data analysis]
 modified: 2015-09-30
@@ -24,6 +24,7 @@ I selected those resources that are more suitable for beginners together with th
 * Xavier Amatriain, one of the minds behind Netflix's famous recommendation system, explains [what are the advantages of different classification algorithms](https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms/answer/Xavier-Amatriain).
 * Don't miss [this list](http://t.co/8rmSK9Iha1) of machine learning podcasts.
 * [Introduction to Recommender Systems](https://www.youtube.com/watch?v=bLhq63ygoU8) is a 4-hour lecture of the 2014 Machine Learning Summer School at CMU. You can find other interesting machine learning lectures from the same summer school and other programs in [Alex Smola's YouTube channel](https://www.youtube.com/user/smolix/playlists).
+* [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) is a classic book ideal to understand the foundations of many machine learning methods.
 * [This PyData talk](https://www.youtube.com/watch?v=W9_SNGymRwo) is a good introduction to deep neural networks in general and to convolution networks in particular.
 * [This paper](http://ow.ly/yvP5B) explains why using AUC to evaluate the performance of machine learning algorithms.
 * [Tex Mining with WEKA cookbook](http://www.esp.uem.es/jmgomez/tmweka/index.html) for those who prefer Java.
@@ -77,6 +78,7 @@ In any case, I still frequently launch an R prompt to use some fantastic package
 
 * [Intro to R](https://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP) is a playlist by Google Developers that explains all the basics of the language.
 * Kaggle top ranker Xavier Conort listed [10 R Packages to win Kaggle competitions](http://www.kdnuggets.com/2015/04/top-10-r-packages-kaggle.html). That's a good way to discover some very prominent R packages.
+* [An Introduction to Statistical Learning with Applications in R] is a terrific free book full of examples.
 * "[R: the good parts](http://blog.datascienceretreat.com/post/69789735503/r-the-good-parts)" is an article by Jose Quesada (Data Science Retreat) that lists the main advantages of R with links to other good resources.
 * Archetypal analysis is not usually taught in introductory machine learning courses. [This post](http://ow.ly/3xrTbg) explains how to apply it and shows that it outperforms kmeans in a number of cases. Plus, archetypal analysis is easier to interpret.
 * [AnomalyDetection and BreakoutDetection](http://ow.ly/H8jTp): open source R packages for time-series analysis by Twitter.
