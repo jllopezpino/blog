@@ -31,8 +31,9 @@ I selected those resources that are more suitable for beginners together with th
 * "[Machine Learning Gremlins](https://www.youtube.com/watch?v=tleeC-KlsKA)" is a presentation on common machine learning mistakes by Ben Hamner (Kaggle).
 * Because we don't always need exact answers, this [introduction to stream mining](https://www.youtube.com/watch?v=u08tNk2jgPY) by Mikio Braun can be very useful to you.
 * If you want a wider vision of artificial intelligence, [these lectures](https://www.youtube.com/playlist?list=PLnvKubj2-I2LhIibS8TOGC42xsD3-liux) from the AI course taught at MIT by Patrick Winston.
+* The lectures of the course "CS273a: Introduction to Machine Learning" by Prof. Alex Ihler (UCI) are [available on Youtube](https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw).
 * Choosing a machine learning model can be a cumbersome task. That's why we have automatic machine learning to assist model selection. [These slides](http://tdj.si/automl_pydataberlin.pdf) are a good entry point to it.
-* For a good picture of the state of the art of neural networks and deep learning, you can find tutorials and workshops of the NIPS 2014 conference in [this YouTube channel](https://www.youtube.com/user/NeuralInformationPro/feed). You can also find this [summary of the conference](http://blogs.technet.com/b/machinelearning/archive/2014/12/16/machine-learning-trends-from-nips-2014.aspx) by John Platt (Microsoft Research)..
+* For a good picture of the state of the art of neural networks and deep learning, you can find tutorials and workshops of the NIPS 2014 conference in [this YouTube channel](https://www.youtube.com/user/NeuralInformationPro/feed). You can also find this [summary of the conference](http://blogs.technet.com/b/machinelearning/archive/2014/12/16/machine-learning-trends-from-nips-2014.aspx) by John Platt (Microsoft Research).
 * You can find a good explanation of SGD and ALS for matrix factorization [in this Quora thread](https://www.quora.com/What-is-the-Alternating-Least-Squares-method-in-recommendation-systems).
 
 # Statistics
@@ -69,7 +70,7 @@ Once you are familiar with Python, the following resources for machine learning 
 * Make your first machine learning predictions using Python with [this Kaggle tutorial](https://www.kaggle.com/c/titanic/details/getting-started-with-python).
 * NLTK is the most popular library for natural language processing in Python. [This presentation](http://www.slideshare.net/japerk/nltk-in-20-minutes) can give you a good overview of what you can do with it and this [1 hour tutorial](https://www.youtube.com/playlist?list=PLjzUxUKyAHG0UeXr09D7fP1srkx32MZQK) will show you what you can do with it.
 * [PyDataTV](https://www.youtube.com/user/PyDataTV/playlists) is the YouTube channel of the PyData conferences. You can find keynotes, talks and workshops on how to use the PyData stack.
-* [mpld3](http://ow.ly/JXRVP): interactive Matplotlib graphics in the browser and in IPython notebooks 
+* [mpld3](http://ow.ly/JXRVP): interactive Matplotlib graphics in the browser and in IPython notebooks
 * [EarthPy](http://ow.ly/HygsI) is a collection of IPython notebooks with examples of Earth Science data processing.
 
 # R
@@ -106,7 +107,7 @@ If you have to deal with large volumes of data, these are the resources that I c
 * Distributed systems theory is neither easy nor well documented. [This post](http://ow.ly/Aagop) covers many important concepts for distributed systems engineer.
 * [Mining of Massive Datasets](http://www.mmds.org/) is a must-read book based on Stanford Mining Massive Dataset and Data Mining courses. And it's free!
 * Spark SQL is probably the best SQL interface for data stored in HDFS. [This paper](http://ow.ly/KEmWk ) explains some relevant concepts related to it like data frames, the integration with the optimizer Catalyst integrated and a performance comparison with Shark.
-* [Introduction to Spark SQL](https://www.youtube.com/watch?v=GQSNJAzxOr8) and its rule-based optimizer by Michael Armbrust 
+* [Introduction to Spark SQL](https://www.youtube.com/watch?v=GQSNJAzxOr8) and its rule-based optimizer by Michael Armbrust
 * Databricks's [reference apps](http://databricks.com/blog/2014/09/23/databricks-reference-applications.html) is a comprehensive set of examples to learn Spark.
 * [Presentation on Parquet](https://www.youtube.com/watch?v=pFS-FScophU), the easiest way to columnar storage in Hadoop, at Hadoop Summit.
 * Apache Flink is more suitable than Spark for iterative and also streaming processes. The best resources to learn about it is the [official YouTube channel](https://www.youtube.com/channel/UCY8_lgiZLZErZPF47a2hXMA/videos) and [DataArtisans YouTube channel](https://www.youtube.com/channel/UCxt7B_fmLplq0OMRVxLiE8w/videos).
