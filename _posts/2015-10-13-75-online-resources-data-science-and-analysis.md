@@ -1,18 +1,22 @@
 ---
 layout: post
 title: 75+ free online resources to boost your data science and analysis skills
-excerpt: "Compilation of links to posts, tutorials, video lectures and workshops that either [I've shared on Twitter](https://twitter.com/jllopezpino) in the last couple of years or I have in my bookmarks."
+excerpt: "This list is for those who want to become more comfortable working with machine learning libraries, numbers and statistics."
 tags: [online resouces, data science, data analysis]
-modified: 2015-09-30
+modified: 2015-10-13
 comments: true
 image:
     feature: old-days-of-technology.jpg
 ---
 
-I have a passion for learning and also for teaching others. Probably that's why people willing to work in a data-heavy role approach me when they want to become more comfortable working with machine learning libraries, numbers and statistics.
-To be as useful as possible, I decided to create a comprehensive list of online resources that I can refer others to.
 
-In the end, this is just a compilation of links to posts, tutorials, video lectures and workshops that either [I've shared on Twitter](https://twitter.com/jllopezpino) in the last couple of years or I have in my bookmarks.
+This list is for those who want to become more comfortable working with machine learning libraries, numbers and statistics.
+
+I've been making [a list of MOOCs related to data science](http://lopezpino.es/2013/12/20/interesting-mooc-courses-business-intelligence-big-data/) for a while. But it's not always easy to find one that fits your professional interests.
+Not to mention that with the following resources, you can progress at your own pace.
+
+In the end, this is just a compilation of links to posts, tutorials, video lectures and workshops that either [I've shared on Twitter](https://twitter.com/jllopezpino) in the last couple of years or that I have in my bookmarks.
+
 
 # Machine learning
 
