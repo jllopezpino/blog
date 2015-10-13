@@ -7,6 +7,7 @@ layout: post
 # slug: web-security-testing-cookbook
 title: Web Security Testing Cookbook
 locale: es_ES
+excerpt: "Breve reseña del libro Web Security Testing Cookbook, en el que Paco Hope y Ben Walther tratan los ataques más comunes enseñándonos cómo realizar las pruebas de seguridad en nuestros sitios web."
 wordpress_id: 251
 categories:
 - Libros
