@@ -34,3 +34,6 @@ Data scientists in early-stage startups usually benefit from getting involved in
 
 # Capture the data right
 Companies usually identify the potential of accumulating data, so data losses are not critical. But later on they discover that they have to migrate away from data models and storage systems that are not good enough. Exploring your data and extracting insights from data helps the organisation to capture and store it the right way. You won’t have to say again “only if we had the right data...”.
+
+
+What are your reasons to do it, or avoid it?
