@@ -83,7 +83,7 @@ In any case, I still frequently launch an R prompt to use some fantastic package
 
 * [Intro to R](https://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP) is a playlist by Google Developers that explains all the basics of the language.
 * Kaggle top ranker Xavier Conort listed [10 R Packages to win Kaggle competitions](http://www.kdnuggets.com/2015/04/top-10-r-packages-kaggle.html). That's a good way to discover some very prominent R packages.
-* [An Introduction to Statistical Learning with Applications in R] is a terrific free book full of examples.
+* [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/) is a terrific free book full of examples.
 * "[R: the good parts](http://blog.datascienceretreat.com/post/69789735503/r-the-good-parts)" is an article by Jose Quesada (Data Science Retreat) that lists the main advantages of R with links to other good resources.
 * Archetypal analysis is not usually taught in introductory machine learning courses. [This post](http://ow.ly/3xrTbg) explains how to apply it and shows that it outperforms kmeans in a number of cases. Plus, archetypal analysis is easier to interpret.
 * [AnomalyDetection and BreakoutDetection](http://ow.ly/H8jTp): open source R packages for time-series analysis by Twitter.
