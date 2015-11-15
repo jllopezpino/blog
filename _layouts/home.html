@@ -45,6 +45,10 @@
           {% else %}
             <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
             <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+            <p align="right">
+                <time itemprop="dateCreated" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: '%B %d, %Y' }}</time>
+            </p>
+            
           {% endif %}
         </article>
       {% endif %}
