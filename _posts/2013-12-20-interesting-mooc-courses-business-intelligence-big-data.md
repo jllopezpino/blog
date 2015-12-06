@@ -5,6 +5,7 @@ image:
 date: 2013-12-20 17:05:11+00:00
 layout: post
 # slug: interesting-mooc-courses-business-intelligence-big-data
+excerpt: "This list is of MOOCs related to data science, business intelligence and big data that I've been compiling for about two years."
 title: Interesting MOOCs related to Data Science, Business Intelligence and Big Data
 categories:
 - Big Data
@@ -25,6 +26,10 @@ tags:
 - statistics
 - visualization
 ---
+
+This is a list of MOOCs related to data science, business intelligence and big data that I've been compiling for about two years.
+
+
   * [Foundations of Business Strategy](https://class.coursera.org/strategy101-002/).
   * [Introduction to Recommender Systems](https://class.coursera.org/recsys-001/).
   * [Introduction to Data Science](https://www.coursera.org/course/datasci).
