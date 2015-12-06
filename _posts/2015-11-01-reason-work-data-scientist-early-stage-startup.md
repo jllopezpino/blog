@@ -1,57 +1,38 @@
 ---
 layout: post
-title: 5 overlooked skills that data scientists need to cultivate
-excerpt: "Here are six overlooked skills you should try to cultivate if you want to start climbing your career ladder."
-tags: [data science, skills, jobs]
-modified: 2015-12-01
+title: 5 reasons to work as a data scientist for an early-stage startup
+excerpt: "Is it then worth for a data science professional to work for an early-stage startup? I think so and I have put together my list of reasons."
+tags: [data science, startups]
+modified: 2015-11-01
 comments: true
 image:
     feature: old-days-of-technology.jpg
 ---
 
 
-Here are six overlooked skills you should try to cultivate if you want to start climbing your career ladder.
+Startups are blooming like mushrooms and most of them fail to identify how data science can add business value at an early stage. However, I see how they start hiring for data-heavy roles earlier and understand better how data science can support their growth.
 
+Is it then worth for a data science professional to work for an early-stage startup? I think so and I have put together my list of reasons.
 
-I've been on both sides of the table. I have interviewed for some jobs over the last year and I've also been in charge of hiring for startups.
-After that experience, I have tried to put put some thoughts together with the goal of helping those of you that may be seeking a job.
-I hope you find it useful!
-
-
-You probably know that most companies mostly hire folks with programming skills for data science jobs. Also that experience with machine learning algorithms and a strong statistics background may get you a job interview. But other skills will get you the job and help you retain it.
-
-
-# Solve business problems
-Understand the language well.
-Know how to measure the success of a project.
-
-
+# Design and carry out better experiments
 In lean organisations, it’s easier to promote best practices in experiment design. In bigger companies, experiments are limited by several factors including the inability to control the complete chain. Last but not least, It’s also more likely that you can take the experiment to the next step in a young venture.
 
-# SQL or able to query the company data
-
-Retrieve data from any source and wrangle it to integrate into our system
-
-
+# Work across the organisation
 In an early-stage startup, you will find more collaboration and communication between departments which will certainly improve the production of most data scientists. In exchange, the organisation will benefit from defining realistic and relevant data science project since the beginning.
 
 Data science is an interdisciplinary field by definition and you can become the well-rounded data scientist that every company wants to hire.
 
-# Design good experiments
-I don't want to repeat myself.
+# Say goodbye to legacy code
+Most data scientist spend a significant amount of time crafting lines of code. Particularly in companies where predictions should work in production environments and system availability close to 100%. Maintaining broken code is a common mistake that you can avoid if you start doing things right from the beginning. Late-stage startups can’t hardly afford rewriting a codebase from scratch.
 
+Some “old” organisations find difficult to move away from machine learning algorithms that perform well, although they are nearly impossible to maintain.
 
-# Software quality
-Bulletproof your code against errors and make it beautiful.
-
-
-
-
+# Contribute to building the product
 People seem to forget that data scientist can extract knowledge or insights from modest volumes of data in various forms. This can prevent product manager and owners from listening to the data when the results are not significant and leverage growth. In addition, a startup can build a more robust and scalable product if you benefit from using data to automate tasks since the beginning.
 
 Data scientists in early-stage startups usually benefit from getting involved in the entire product line life cycle from strategic planning to operational activities.
 
-# Work with big legacy codebases
+# Capture the data right
 Companies usually identify the potential of accumulating data, so data losses are not critical. But later on they discover that they have to migrate away from data models and storage systems that are not good enough. Exploring your data and extracting insights from data helps the organisation to capture and store it the right way. You won’t have to say again “only if we had the right data...”.
 
 
