@@ -20,8 +20,7 @@ I hope you find it useful!
 
 # Solve business problems
 
-Gilberto Titericz, ##1 Kaggler in the world, recently answered during an [interview](http://blog.kaggle.com/2015/11/09/profiling-top-kagglers-gilberto-titericz-new-1-in-the-world/)
- that understanding the problem and the features that you can use as one of the most critical parts of solving a Kaggle challenge. Samuel Noriega listed "knowledge of a particular business domain" as [one of the three basic skills that a data scientist needs in order to be successful](http://3blades.io/blog/what-do-data-scientists-do-exactly/). I totally agree with them and I keep seeing people underrating this knowledge.
+Gilberto Titericz, #1 Kaggler in the world, recently answered during an [interview](http://blog.kaggle.com/2015/11/09/profiling-top-kagglers-gilberto-titericz-new-1-in-the-world/) that understanding the problem and the features that you can use as one of the most critical parts of solving a Kaggle challenge. Samuel Noriega listed "knowledge of a particular business domain" as [one of the three basic skills that a data scientist needs in order to be successful](http://3blades.io/blog/what-do-data-scientists-do-exactly/). I totally agree with them and I keep seeing people underrating this knowledge.
 
 
 Fortunately, big companies heavily test the ability of the candidate to adapt business problems that they are not familiar with.
