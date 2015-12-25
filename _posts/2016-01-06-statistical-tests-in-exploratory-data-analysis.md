@@ -40,28 +40,46 @@ td{
 |**Independent variable** | Categorical | Chi Square  | t-test, ANOVA  |
 || Continuous | LDA, QDA  | Regression |
 
-# Dataset
-
-I have chosen an [old credit dataset](http://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29) from Professor Dr. Hans Hofmann (University of Hamburg) for the simple reasons that I'm more familiar with this domain and the set of attributes is nice.
 
 
+<div class="container" id="notebook-container">
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Dataset">Dataset<a class="anchor-link" href="#Dataset">&#182;</a></h1>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>I have chosen an <a href="http://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29">old credit dataset</a> from Professor Dr. Hans Hofmann (University of Hamburg) for the simple reasons that I'm more familiar with this domain and the set of attributes is nice.</p>
+
+</div>
+</div>
+</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[1]:</div>
 <div class="inner_cell">
-    <div class="input_area">
+<div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span class="kn">import</span> <span class="nn">pandas</span> <span class="kn">as</span> <span class="nn">pd</span>
 
 <span class="n">german_dataset_columns</span> <span class="o">=</span> <span class="p">[</span><span class="s">&#39;checking_account&#39;</span><span class="p">,</span> <span class="s">&#39;duration&#39;</span><span class="p">,</span> <span class="s">&#39;credit_history&#39;</span><span class="p">,</span> <span class="s">&#39;purpose&#39;</span><span class="p">,</span> <span class="s">&#39;credit_amount&#39;</span><span class="p">,</span> <span class="s">&#39;savings&#39;</span><span class="p">,</span>
-                          <span class="s">&#39;employment_since&#39;</span><span class="p">,</span> <span class="s">&#39;instalment_rate&#39;</span><span class="p">,</span> <span class="s">&#39;status_and_sex&#39;</span><span class="p">,</span> <span class="s">&#39;other_credits&#39;</span><span class="p">,</span> <span class="s">&#39;residence_since&#39;</span><span class="p">,</span>
-                          <span class="s">&#39;property&#39;</span><span class="p">,</span> <span class="s">&#39;age&#39;</span><span class="p">,</span> <span class="s">&#39;other_instalment&#39;</span><span class="p">,</span> <span class="s">&#39;housing&#39;</span><span class="p">,</span> <span class="s">&#39;number_of_credits&#39;</span><span class="p">,</span> <span class="s">&#39;job&#39;</span><span class="p">,</span> <span class="s">&#39;maintenace&#39;</span><span class="p">,</span>
-                          <span class="s">&#39;telephone&#39;</span><span class="p">,</span> <span class="s">&#39;foreign&#39;</span><span class="p">]</span>
+                      <span class="s">&#39;employment_since&#39;</span><span class="p">,</span> <span class="s">&#39;instalment_rate&#39;</span><span class="p">,</span> <span class="s">&#39;status_and_sex&#39;</span><span class="p">,</span> <span class="s">&#39;other_credits&#39;</span><span class="p">,</span> <span class="s">&#39;residence_since&#39;</span><span class="p">,</span>
+                      <span class="s">&#39;property&#39;</span><span class="p">,</span> <span class="s">&#39;age&#39;</span><span class="p">,</span> <span class="s">&#39;other_instalment&#39;</span><span class="p">,</span> <span class="s">&#39;housing&#39;</span><span class="p">,</span> <span class="s">&#39;number_of_credits&#39;</span><span class="p">,</span> <span class="s">&#39;job&#39;</span><span class="p">,</span> <span class="s">&#39;maintenace&#39;</span><span class="p">,</span>
+                      <span class="s">&#39;telephone&#39;</span><span class="p">,</span> <span class="s">&#39;foreign&#39;</span><span class="p">]</span>
 
 <span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s">&quot;german.data.txt&quot;</span><span class="p">,</span>
-                 <span class="n">header</span><span class="o">=</span><span class="bp">None</span><span class="p">,</span>  <span class="c"># The textfile has no header row</span>
-                 <span class="n">delimiter</span><span class="o">=</span><span class="s">r&quot;\s+&quot;</span><span class="p">,</span>  <span class="c"># Columns are </span>
-                 <span class="n">names</span><span class="o">=</span><span class="n">german_dataset_columns</span><span class="p">,</span>
-                 <span class="n">index_col</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
+             <span class="n">header</span><span class="o">=</span><span class="bp">None</span><span class="p">,</span>  <span class="c"># The textfile has no header row</span>
+             <span class="n">delimiter</span><span class="o">=</span><span class="s">r&quot;\s+&quot;</span><span class="p">,</span>  <span class="c"># Columns are delimited by an undetermined number of spaces</span>
+             <span class="n">names</span><span class="o">=</span><span class="n">german_dataset_columns</span><span class="p">,</span>
+             <span class="n">index_col</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>  <span class="c"># There is no index column</span>
 </pre></div>
 
 </div>
@@ -69,21 +87,32 @@ I have chosen an [old credit dataset](http://archive.ics.uci.edu/ml/datasets/Sta
 </div>
 
 </div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Chi-square">Chi-square<a class="anchor-link" href="#Chi-square">&#182;</a></h1>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>We are going to conduct a chi-square test for independence.
+The purpose of applying this test to two categorical variables is determining whether there is a noteworthy association between the two variables.</p>
+<p>In the code below, we are going to check whether there is an association between the loan purpose and the situation of the bank account of the potential borrower.</p>
 
-
-# Chi Square test
-
-We are going to conduct a chi-square test for independence.
-The purpose of applying this test to two categorical variables is determining whether there is a noteworthy association between the two variables.
-
-
-In the code below, we are going to check whether there is an association between the loan purpose and the situation of the bank account of the potential borrower.
-
+</div>
+</div>
+</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
-    <div class="input_area">
+<div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span class="kn">from</span> <span class="nn">scipy.stats</span> <span class="kn">import</span> <span class="n">chi2_contingency</span>
 <span class="n">df_observed</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">crosstab</span><span class="p">(</span><span class="n">df</span><span class="o">.</span><span class="n">checking_account</span><span class="p">,</span> <span class="n">df</span><span class="o">.</span><span class="n">purpose</span><span class="p">)</span>
 <span class="n">chi2</span><span class="p">,</span> <span class="n">p</span><span class="p">,</span> <span class="n">dof</span><span class="p">,</span> <span class="n">expected</span> <span class="o">=</span> <span class="n">chi2_contingency</span><span class="p">(</span><span class="n">df_observed</span><span class="p">)</span>
@@ -109,18 +138,22 @@ In the code below, we are going to check whether there is an association between
 </div>
 
 </div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Given the p-value for the hypothesis test of independence obtained above (0.00003171), this is interpreted as a 99.9968% likelihood that these two variables are dependent.</p>
+<p>Now we can do a deep dive into the numbers and compare the expected values and the observed values:</p>
 
-
-Given the p-value for the hypothesis test of independence obtained above (0.00003171), this is interpreted as a 99.9968% likelihood that these two variables are dependent.
-
-
-Now we can do a deep dive into the numbers and compare the expected values and the observed values:
-
+</div>
+</div>
+</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[3]:</div>
 <div class="inner_cell">
-    <div class="input_area">
+<div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span class="n">df_expected</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">expected</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="n">df_observed</span><span class="o">.</span><span class="n">index</span><span class="p">,</span> <span class="n">columns</span><span class="o">=</span><span class="n">df_observed</span><span class="o">.</span><span class="n">columns</span><span class="p">)</span>
 <span class="n">df_expected</span>
 </pre></div>
@@ -138,88 +171,88 @@ Now we can do a deep dive into the numbers and compare the expected values and t
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
 <table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>purpose</th>
-      <th>A40</th>
-      <th>A41</th>
-      <th>A410</th>
-      <th>A42</th>
-      <th>A43</th>
-      <th>A44</th>
-      <th>A45</th>
-      <th>A46</th>
-      <th>A48</th>
-      <th>A49</th>
-    </tr>
-    <tr>
-      <th>checking_account</th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>A11</th>
-      <td>64.116</td>
-      <td>28.222</td>
-      <td>3.288</td>
-      <td>49.594</td>
-      <td>76.72</td>
-      <td>3.288</td>
-      <td>6.028</td>
-      <td>13.70</td>
-      <td>2.466</td>
-      <td>26.578</td>
-    </tr>
-    <tr>
-      <th>A12</th>
-      <td>62.946</td>
-      <td>27.707</td>
-      <td>3.228</td>
-      <td>48.689</td>
-      <td>75.32</td>
-      <td>3.228</td>
-      <td>5.918</td>
-      <td>13.45</td>
-      <td>2.421</td>
-      <td>26.093</td>
-    </tr>
-    <tr>
-      <th>A13</th>
-      <td>14.742</td>
-      <td>6.489</td>
-      <td>0.756</td>
-      <td>11.403</td>
-      <td>17.64</td>
-      <td>0.756</td>
-      <td>1.386</td>
-      <td>3.15</td>
-      <td>0.567</td>
-      <td>6.111</td>
-    </tr>
-    <tr>
-      <th>A14</th>
-      <td>92.196</td>
-      <td>40.582</td>
-      <td>4.728</td>
-      <td>71.314</td>
-      <td>110.32</td>
-      <td>4.728</td>
-      <td>8.668</td>
-      <td>19.70</td>
-      <td>3.546</td>
-      <td>38.218</td>
-    </tr>
-  </tbody>
+<thead>
+<tr style="text-align: right;">
+  <th>purpose</th>
+  <th>A40</th>
+  <th>A41</th>
+  <th>A410</th>
+  <th>A42</th>
+  <th>A43</th>
+  <th>A44</th>
+  <th>A45</th>
+  <th>A46</th>
+  <th>A48</th>
+  <th>A49</th>
+</tr>
+<tr>
+  <th>checking_account</th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <th>A11</th>
+  <td>64.116</td>
+  <td>28.222</td>
+  <td>3.288</td>
+  <td>49.594</td>
+  <td>76.72</td>
+  <td>3.288</td>
+  <td>6.028</td>
+  <td>13.70</td>
+  <td>2.466</td>
+  <td>26.578</td>
+</tr>
+<tr>
+  <th>A12</th>
+  <td>62.946</td>
+  <td>27.707</td>
+  <td>3.228</td>
+  <td>48.689</td>
+  <td>75.32</td>
+  <td>3.228</td>
+  <td>5.918</td>
+  <td>13.45</td>
+  <td>2.421</td>
+  <td>26.093</td>
+</tr>
+<tr>
+  <th>A13</th>
+  <td>14.742</td>
+  <td>6.489</td>
+  <td>0.756</td>
+  <td>11.403</td>
+  <td>17.64</td>
+  <td>0.756</td>
+  <td>1.386</td>
+  <td>3.15</td>
+  <td>0.567</td>
+  <td>6.111</td>
+</tr>
+<tr>
+  <th>A14</th>
+  <td>92.196</td>
+  <td>40.582</td>
+  <td>4.728</td>
+  <td>71.314</td>
+  <td>110.32</td>
+  <td>4.728</td>
+  <td>8.668</td>
+  <td>19.70</td>
+  <td>3.546</td>
+  <td>38.218</td>
+</tr>
+</tbody>
 </table>
 </div>
 </div>
@@ -230,12 +263,11 @@ Now we can do a deep dive into the numbers and compare the expected values and t
 </div>
 
 </div>
-
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[4]:</div>
 <div class="inner_cell">
-    <div class="input_area">
+<div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span class="n">df_observed</span>
 </pre></div>
 
@@ -252,88 +284,88 @@ Now we can do a deep dive into the numbers and compare the expected values and t
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
 <table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>purpose</th>
-      <th>A40</th>
-      <th>A41</th>
-      <th>A410</th>
-      <th>A42</th>
-      <th>A43</th>
-      <th>A44</th>
-      <th>A45</th>
-      <th>A46</th>
-      <th>A48</th>
-      <th>A49</th>
-    </tr>
-    <tr>
-      <th>checking_account</th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>A11</th>
-      <td>78</td>
-      <td>26</td>
-      <td>4</td>
-      <td>72</td>
-      <td>54</td>
-      <td>5</td>
-      <td>5</td>
-      <td>13</td>
-      <td>2</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <th>A12</th>
-      <td>60</td>
-      <td>21</td>
-      <td>7</td>
-      <td>39</td>
-      <td>75</td>
-      <td>2</td>
-      <td>9</td>
-      <td>13</td>
-      <td>3</td>
-      <td>40</td>
-    </tr>
-    <tr>
-      <th>A13</th>
-      <td>16</td>
-      <td>2</td>
-      <td>0</td>
-      <td>11</td>
-      <td>24</td>
-      <td>1</td>
-      <td>0</td>
-      <td>4</td>
-      <td>0</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <th>A14</th>
-      <td>80</td>
-      <td>54</td>
-      <td>1</td>
-      <td>59</td>
-      <td>127</td>
-      <td>4</td>
-      <td>8</td>
-      <td>20</td>
-      <td>4</td>
-      <td>37</td>
-    </tr>
-  </tbody>
+<thead>
+<tr style="text-align: right;">
+  <th>purpose</th>
+  <th>A40</th>
+  <th>A41</th>
+  <th>A410</th>
+  <th>A42</th>
+  <th>A43</th>
+  <th>A44</th>
+  <th>A45</th>
+  <th>A46</th>
+  <th>A48</th>
+  <th>A49</th>
+</tr>
+<tr>
+  <th>checking_account</th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <th>A11</th>
+  <td>78</td>
+  <td>26</td>
+  <td>4</td>
+  <td>72</td>
+  <td>54</td>
+  <td>5</td>
+  <td>5</td>
+  <td>13</td>
+  <td>2</td>
+  <td>15</td>
+</tr>
+<tr>
+  <th>A12</th>
+  <td>60</td>
+  <td>21</td>
+  <td>7</td>
+  <td>39</td>
+  <td>75</td>
+  <td>2</td>
+  <td>9</td>
+  <td>13</td>
+  <td>3</td>
+  <td>40</td>
+</tr>
+<tr>
+  <th>A13</th>
+  <td>16</td>
+  <td>2</td>
+  <td>0</td>
+  <td>11</td>
+  <td>24</td>
+  <td>1</td>
+  <td>0</td>
+  <td>4</td>
+  <td>0</td>
+  <td>5</td>
+</tr>
+<tr>
+  <th>A14</th>
+  <td>80</td>
+  <td>54</td>
+  <td>1</td>
+  <td>59</td>
+  <td>127</td>
+  <td>4</td>
+  <td>8</td>
+  <td>20</td>
+  <td>4</td>
+  <td>37</td>
+</tr>
+</tbody>
 </table>
 </div>
 </div>
@@ -344,17 +376,21 @@ Now we can do a deep dive into the numbers and compare the expected values and t
 </div>
 
 </div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>It might be easier to compare both tables by doing some simple visualisations like the following one:</p>
 
-
-It might be easier to compare both tables by doing some simple visualisations like the following one:
-
-
-
+</div>
+</div>
+</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[5]:</div>
 <div class="inner_cell">
-    <div class="input_area">
+<div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span class="o">%</span><span class="k">pylab</span> inline
 <span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="kn">as</span> <span class="nn">plt</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">500</span><span class="p">,</span><span class="mi">100</span><span class="p">))</span>
@@ -362,10 +398,10 @@ It might be easier to compare both tables by doing some simple visualisations li
 <span class="c"># Join observed and expected values in a single dataframe</span>
 <span class="n">df_plot</span> <span class="o">=</span> <span class="n">df_observed</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">df_expected</span><span class="p">,</span> <span class="n">how</span><span class="o">=</span><span class="s">&#39;outer&#39;</span><span class="p">,</span> <span class="n">lsuffix</span><span class="o">=</span><span class="s">&#39; observed&#39;</span><span class="p">,</span> <span class="n">rsuffix</span><span class="o">=</span><span class="s">&#39; expected&#39;</span><span class="p">,</span> <span class="n">sort</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
 
-<span class="c"># Sort the columns alphabetically</span>
+<span class="c"># We sort the columns alphabetically</span>
 <span class="n">df_plot</span> <span class="o">=</span> <span class="n">df_plot</span><span class="o">.</span><span class="n">reindex_axis</span><span class="p">(</span><span class="nb">sorted</span><span class="p">(</span><span class="n">df_plot</span><span class="o">.</span><span class="n">columns</span><span class="p">),</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
 
-<span class="c"># Staked bar plot </span>
+<span class="c"># We plot </span>
 <span class="n">df_plot</span><span class="o">.</span><span class="n">transpose</span><span class="p">()</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span><span class="o">=</span><span class="s">&#39;bar&#39;</span><span class="p">,</span> <span class="n">stacked</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span> <span class="n">title</span><span class="o">=</span><span class="s">&#39;Expected and Observed values&#39;</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span> <span class="mi">10</span><span class="p">))</span>
 </pre></div>
 
@@ -386,6 +422,9 @@ It might be easier to compare both tables by doing some simple visualisations li
 
 <div class="output_area"><div class="prompt output_prompt">Out[5]:</div>
 
+
+<div class="output_text output_subarea output_execute_result">
+<pre>&lt;matplotlib.axes._subplots.AxesSubplot at 0x107fe3550&gt;</pre>
 </div>
 
 </div>
@@ -394,7 +433,7 @@ It might be easier to compare both tables by doing some simple visualisations li
 
 
 <div class="output_text output_subarea ">
-<pre>&lt;matplotlib.figure.Figure at 0x108260350&gt;</pre>
+<pre>&lt;matplotlib.figure.Figure at 0x10391a090&gt;</pre>
 </div>
 
 </div>
@@ -715,23 +754,14 @@ vHIrlKvnXgXsBVxq+14ASSuqxwAusL1W0pHAOZImgBeB02y/KOk4YLmkWZTfiz8CHhzR642IDsm1
 oAykIiIiIgaUgVRERETEgDKQioiIiBhQBlIRERERA/ov2iBvm7EYXVMAAAAASUVORK5CYII=
 "
 >
-
-</div>
-
-</div>
 </div>
 
 </div>
 
+</div>
+</div>
 
-
-If you have never heard of contingency tables and chi-square tests, you probably want to watch [this video from Khan Academy](https://www.youtube.com/watch?v=hpWdDmgsIRE) first.
-If you want to select the best features to build a classifier using chi-square tests, I recommend to you to take a look at the [feature_selection package of scikit-learn](http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.chi2.html).
-
-
-
-
-
+</div>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -756,35 +786,35 @@ If you want to select the best features to build a classifier using chi-square t
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[6]:</div>
 <div class="inner_cell">
-    <div class="input_area">
+<div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span class="kn">from</span> <span class="nn">scipy.stats</span> <span class="kn">import</span> <span class="n">f_oneway</span>
 
 <span class="k">def</span> <span class="nf">p_value_anova_from_df</span><span class="p">(</span><span class="n">df</span><span class="p">,</span> <span class="n">categorical_var</span><span class="p">,</span> <span class="n">continuous_var</span><span class="p">):</span>
-    <span class="c"># Get all the possible values that the categorical variable could take</span>
-    <span class="n">categorical_var_values</span> <span class="o">=</span> <span class="nb">set</span><span class="p">(</span><span class="n">df</span><span class="p">[</span><span class="n">categorical_var</span><span class="p">]</span><span class="o">.</span><span class="n">values</span><span class="p">)</span>
+<span class="c"># Get all the possible values that the categorical variable could take</span>
+<span class="n">categorical_var_values</span> <span class="o">=</span> <span class="nb">set</span><span class="p">(</span><span class="n">df</span><span class="p">[</span><span class="n">categorical_var</span><span class="p">]</span><span class="o">.</span><span class="n">values</span><span class="p">)</span>
 
-    <span class="c"># Get the loan amounts for each of those values, creating a matrix</span>
-    <span class="n">loan_amounts</span> <span class="o">=</span> <span class="p">[</span><span class="n">df</span><span class="p">[</span><span class="n">df</span><span class="p">[</span><span class="n">categorical_var</span><span class="p">]</span> <span class="o">==</span> <span class="n">v</span><span class="p">][</span><span class="n">continuous_var</span><span class="p">]</span><span class="o">.</span><span class="n">values</span> <span class="k">for</span> <span class="n">v</span> <span class="ow">in</span> <span class="n">categorical_var_values</span><span class="p">]</span>
+<span class="c"># Get the loan amounts for each of those values, creating a matrix</span>
+<span class="n">loan_amounts</span> <span class="o">=</span> <span class="p">[</span><span class="n">df</span><span class="p">[</span><span class="n">df</span><span class="p">[</span><span class="n">categorical_var</span><span class="p">]</span> <span class="o">==</span> <span class="n">v</span><span class="p">][</span><span class="n">continuous_var</span><span class="p">]</span><span class="o">.</span><span class="n">values</span> <span class="k">for</span> <span class="n">v</span> <span class="ow">in</span> <span class="n">categorical_var_values</span><span class="p">]</span>
 
-    <span class="c"># Perform 1-way ANOVA.</span>
-    <span class="n">f</span><span class="p">,</span> <span class="n">p</span> <span class="o">=</span> <span class="n">f_oneway</span><span class="p">(</span><span class="o">*</span><span class="n">loan_amounts</span><span class="p">)</span>
+<span class="c"># Performs 1-way ANOVA.</span>
+<span class="n">f</span><span class="p">,</span> <span class="n">p</span> <span class="o">=</span> <span class="n">f_oneway</span><span class="p">(</span><span class="o">*</span><span class="n">loan_amounts</span><span class="p">)</span>
 
-    <span class="k">return</span> <span class="n">p</span>
+<span class="k">return</span> <span class="n">p</span>
 
 
 <span class="n">continuous_var</span> <span class="o">=</span> <span class="s">&#39;credit_amount&#39;</span>
 
 <span class="k">for</span> <span class="n">categorical_var</span> <span class="ow">in</span> <span class="p">[</span><span class="s">&#39;checking_account&#39;</span><span class="p">,</span> <span class="s">&#39;credit_history&#39;</span><span class="p">,</span> <span class="s">&#39;purpose&#39;</span><span class="p">,</span> <span class="s">&#39;savings&#39;</span><span class="p">,</span> <span class="s">&#39;status_and_sex&#39;</span><span class="p">,</span> <span class="s">&#39;foreign&#39;</span><span class="p">]:</span>
-    <span class="c"># Get the p-value of the 1-way ANOVA</span>
-    <span class="n">p</span> <span class="o">=</span> <span class="n">p_value_anova_from_df</span><span class="p">(</span><span class="n">df</span><span class="p">,</span> <span class="n">categorical_var</span><span class="p">,</span> <span class="n">continuous_var</span><span class="p">)</span>
+<span class="c"># Get the p-value of the 1-way ANOVA</span>
+<span class="n">p</span> <span class="o">=</span> <span class="n">p_value_anova_from_df</span><span class="p">(</span><span class="n">df</span><span class="p">,</span> <span class="n">categorical_var</span><span class="p">,</span> <span class="n">continuous_var</span><span class="p">)</span>
 
-    <span class="c"># Compute the means for visualisation purposes</span>
-    <span class="n">df_means</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="n">categorical_var</span><span class="p">)[</span><span class="n">continuous_var</span><span class="p">]</span><span class="o">.</span><span class="n">mean</span><span class="p">()</span>
+<span class="c"># Compute the means for visualisation purposes</span>
+<span class="n">df_means</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="n">categorical_var</span><span class="p">)[</span><span class="n">continuous_var</span><span class="p">]</span><span class="o">.</span><span class="n">mean</span><span class="p">()</span>
 
-    <span class="c"># Plot the means and use the p-value as title</span>
-    <span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">()</span>
-    <span class="n">ax</span> <span class="o">=</span> <span class="n">df_means</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span><span class="o">=</span><span class="s">&#39;bar&#39;</span><span class="p">,</span> <span class="n">title</span><span class="o">=</span><span class="s">&quot;p=</span><span class="si">%.8f</span><span class="s">&quot;</span> <span class="o">%</span> <span class="n">p</span><span class="p">)</span>
-    <span class="n">ax</span><span class="o">.</span><span class="n">set_ylabel</span><span class="p">(</span><span class="s">&#39;loan amount&#39;</span><span class="p">)</span>
+<span class="c"># Plot the means and use the p-value as title</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">()</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">df_means</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span><span class="o">=</span><span class="s">&#39;bar&#39;</span><span class="p">,</span> <span class="n">title</span><span class="o">=</span><span class="s">&quot;p=</span><span class="si">%.8f</span><span class="s">&quot;</span> <span class="o">%</span> <span class="n">p</span><span class="p">)</span>
+<span class="n">ax</span><span class="o">.</span><span class="n">set_ylabel</span><span class="p">(</span><span class="s">&#39;loan amount&#39;</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -1724,4 +1754,15 @@ hCSpkwlCktTp/wNyDzhRDxLhlQAAAABJRU5ErkJggg==
 </div>
 </div>
 
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>With a significance level alpha=0.05, we would conclude that there is a depency between the continuous variable studied (loan amount) and all the categorical variables studied except "foreign".</p>
+<p>We can understand the value of performing statistical tests from the last example. Although the difference between both averages look significant in our plot, the ANOVA analysis proofs this difference not to be significant.</p>
+
+</div>
+</div>
 </div>
