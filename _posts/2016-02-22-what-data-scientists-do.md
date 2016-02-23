@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Data Scientists do?
-excerpt: "List of tasks regularly performed by data scientists."
+excerpt: "Since Data Science encompasses a blend of skills from different disciplines, I tried to create a list of tasks regularly performed by data scientists."
 tags: [data science, tasks]
 modified: 2016-02-22
 comments: true
