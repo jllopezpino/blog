@@ -40,6 +40,7 @@ I selected those resources that are more suitable for beginners together with th
 * For a good picture of the state of the art of neural networks and deep learning, you can find tutorials and workshops of the NIPS 2014 conference in [this YouTube channel](https://www.youtube.com/user/NeuralInformationPro/feed). You can also find this [summary of the conference](http://blogs.technet.com/b/machinelearning/archive/2014/12/16/machine-learning-trends-from-nips-2014.aspx) by John Platt (Microsoft Research).
 * You can find a good explanation of SGD and ALS for matrix factorization [in this Quora thread](https://www.quora.com/What-is-the-Alternating-Least-Squares-method-in-recommendation-systems).
 * [Applied Data Mining and Statistical Learning](https://onlinecourses.science.psu.edu/stat857/) (Pennsylvania State University).
+* [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html): excellent slides and videos to learn about CNN.
 
 
 # Statistics
