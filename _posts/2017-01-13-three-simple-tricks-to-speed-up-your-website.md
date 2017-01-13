@@ -17,7 +17,8 @@ I was determined to improve the website speed, but I couldn't afford to spend to
 In less than an hour I was able to take the PageSpeed score from 41 to 80 by tracking the most severe (and basic) problems.
 All serious websites should have these three problems covered in a way. If you are unsure if your website has it covered, just use PageSpeed.
 
-<a href="/images/pagspeed.png"><img class="aligncenter size-medium wp-image-814" src="/images/pagespeed.png" alt="anscombe" width="300" height="268" /></a>
+<br/>
+<a href="/images/pagespeed.png"><img class="aligncenter size-medium wp-image-814" src="/images/pagespeed.png" alt="Google PageSpeed test results" width="600"/></a>
 
 
 # Lossy compression of images
@@ -71,7 +72,7 @@ In my case it was very easy since I have a different directory configured to ser
 
 # Defer loading
 
-Reusing code from a StakOverflow answer to [defer loading JavaScript](http://stackoverflow.com/a/18405468)) and another one to [defer loading CSS](http://stackoverflow.com/a/22255132), I ended up using the following code:
+Reusing examples from StackOverflow to [defer load JavaScript](http://stackoverflow.com/a/18405468) and another one to [defer load CSS](http://stackoverflow.com/a/22255132), I ended up with the following code:
 
 {% highlight javascript %}
 
