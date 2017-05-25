@@ -9,7 +9,7 @@ image:
     feature: old-days-of-technology.jpg
 ---
 
-It's 2017, and people still underestimate relational databases and sqlalchemy.
+It's 2017, and people still underestimate relational databases and SQL.
 Postgres is certainly the open source database that has the richest feature set.
 One of those little gems is generate_series.
 For example, I use it to quickly check for missing data in a dataset:
