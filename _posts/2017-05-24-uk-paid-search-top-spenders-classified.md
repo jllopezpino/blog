@@ -3,7 +3,7 @@ layout: post
 title: UK's paid search spenders classified
 excerpt: "Quick classification of UK paid search top spenders in 2016"
 tags: [paid search, uk, retailers, travel, comparison websites]
-modified: 2017-04-03
+modified: 2017-05-24
 comments: true
 image:
     feature: old-days-of-technology.jpg
