@@ -19,7 +19,7 @@ tags:
 - web scraping
 ---
 
-Hace poco os comentaba que estaba estudiando las distintas [tarifas VoIP](http://lopezpino.es/2010/08/27/tarifas-voip/) y que había encontrado una compañía llamada **Betamax** que tiene múltiples páginas que ofrecen el servicios y a precios muy distintos, que además van cambiando con el tiempo.
+Hace poco os comentaba que estaba estudiando las distintas [tarifas VoIP](http://lopezpino.com/2010/08/27/tarifas-voip/) y que había encontrado una compañía llamada **Betamax** que tiene múltiples páginas que ofrecen el servicios y a precios muy distintos, que además van cambiando con el tiempo.
 
 En la red he encontrado un par de páginas que **comparan los precios** de esta compañía a todos los destinos, una de ellas nos da [extensa información sobre las compañías más baratas para cada destino](http://progx.ch/home-voip-prixbetamax-3-1-1.html) y la [otra](http://backsla.sh/betamax) es un poco más simple.
 

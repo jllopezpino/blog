@@ -18,7 +18,7 @@ tags:
 - web scraping
 ---
 
-Las instituciones educativas suelen estar preocupadas porque sus estudiantes visiten sitios tan peligrosos como blogs de diarios españoles y páginas de subtítulos, por lo que en Escocia no tengo acceso a TVSubtitles, la página de donde solía [autodescargar subtítulos](http://lopezpino.es/2010/07/08/autodescargar-subtitulos/).
+Las instituciones educativas suelen estar preocupadas porque sus estudiantes visiten sitios tan peligrosos como blogs de diarios españoles y páginas de subtítulos, por lo que en Escocia no tengo acceso a TVSubtitles, la página de donde solía [autodescargar subtítulos](http://lopezpino.com/2010/07/08/autodescargar-subtitulos/).
 
 Para no tener que descargarlos manualmente, he creado un script en **Python** que los **autodescarga** del sitio español [subtitulos.es](http://www.subtitulos.es/), donde también suele haber subtítulos en inglés y en otros idiomas.
 

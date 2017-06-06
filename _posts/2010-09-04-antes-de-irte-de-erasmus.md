@@ -40,7 +40,7 @@ En tres días estaré viviendo en una nueva ciudad como estudiante de intercambi
   * Obtén la **tarjeta sanitaria europea**.
 
 	
-  * Instálale Skype u otro programa de **videoconferencia** a tu madre para que no se arruine llamándote o busca la [tarifa VoIP más barata](http://lopezpino.es/2010/08/29/comprar-precios-llamadas-voip/). Menciono Skype porque es multiplataforma, como alternativa [libre](http://lopezpino.es/category/software-libre-2/) en Linux puedes emplear **Empathy**, que es [compatible con la videoconferencia de Live Messenger](http://bitelia.com/2009/09/telepathy-anade-soporte-videoconferencias-windows-live-messenger).
+  * Instálale Skype u otro programa de **videoconferencia** a tu madre para que no se arruine llamándote o busca la [tarifa VoIP más barata](http://lopezpino.com/2010/08/29/comprar-precios-llamadas-voip/). Menciono Skype porque es multiplataforma, como alternativa [libre](http://lopezpino.com/category/software-libre-2/) en Linux puedes emplear **Empathy**, que es [compatible con la videoconferencia de Live Messenger](http://bitelia.com/2009/09/telepathy-anade-soporte-videoconferencias-windows-live-messenger).
 
 	
   * Registraste en **Facebook** y únete a los grupos de erasmus en la ciudad, de españoles en la ciudad y de estudiantes internacionales en tu universidad. Hay redes sociales y foros para compartir experiencias en los distintos destinos, pero apenas tienen movimiento.

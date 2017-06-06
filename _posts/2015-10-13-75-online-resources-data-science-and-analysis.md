@@ -12,7 +12,7 @@ image:
 
 This list is for those who want to become more comfortable working with machine learning libraries, numbers and statistics.
 
-I've been making [a list of MOOCs related to data science](http://lopezpino.es/2013/12/20/interesting-mooc-courses-business-intelligence-big-data/) for a while. But it's not always easy to find one that fits your professional interests.
+I've been making [a list of MOOCs related to data science](http://lopezpino.com/2013/12/20/interesting-mooc-courses-business-intelligence-big-data/) for a while. But it's not always easy to find one that fits your professional interests.
 Not to mention that with the following resources, you can progress at your own pace.
 
 In the end, this is just a compilation of links to posts, tutorials, video lectures and workshops that either [I've shared on Twitter](https://twitter.com/jllopezpino) in the last couple of years or that I have in my bookmarks.

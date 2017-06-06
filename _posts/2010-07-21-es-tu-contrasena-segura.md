@@ -19,7 +19,7 @@ tags:
 - seguras
 ---
 
-Ayer hablaba sobre [contraseñas débiles](http://lopezpino.es/2010/07/20/contrasenas-debiles/) y comentaba que quería echar un vistazo al libro '[Perfect  passwords: selection, protection, authentication](http://books.google.es/books?id=18PMr6ra0UQC)'. Todavía no me he parado a leer ningún capítulo en profundidad, pero vi un apéndice que me ha gustado bastante y que voy a traducir y reproducir aquí.
+Ayer hablaba sobre [contraseñas débiles](http://lopezpino.com/2010/07/20/contrasenas-debiles/) y comentaba que quería echar un vistazo al libro '[Perfect  passwords: selection, protection, authentication](http://books.google.es/books?id=18PMr6ra0UQC)'. Todavía no me he parado a leer ningún capítulo en profundidad, pero vi un apéndice que me ha gustado bastante y que voy a traducir y reproducir aquí.
 
 Este apéndice del libro es un test de once preguntas para que nosotros mismos comprobemos lo segura que es nuestra contraseña.
 

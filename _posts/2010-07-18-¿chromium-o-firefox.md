@@ -115,7 +115,7 @@ Una de las opciones que más echo de menos en Chromium es la falta de menús par
 ## Extensibilidad
 
 
-Hay que valorar positivamente la cantidad de extensiones en muy poco tiempo que han aparecido para Chromium, sin embargo Firefox lleva muchos años con nosotros y tiene un impresionante repertorio. Se estima que Firefox cuenta con más de 10.000 extensiones y Chromium con más de 3.000. Hace poco os comentaba las [extensiones de Firefox](http://lopezpino.es/2010/07/14/extensiones-para-firefox/) que más me gustaban y en Chromium no he encontrado reemplazo para algunas de ellas.
+Hay que valorar positivamente la cantidad de extensiones en muy poco tiempo que han aparecido para Chromium, sin embargo Firefox lleva muchos años con nosotros y tiene un impresionante repertorio. Se estima que Firefox cuenta con más de 10.000 extensiones y Chromium con más de 3.000. Hace poco os comentaba las [extensiones de Firefox](http://lopezpino.com/2010/07/14/extensiones-para-firefox/) que más me gustaban y en Chromium no he encontrado reemplazo para algunas de ellas.
 
 
 ## Privacidad

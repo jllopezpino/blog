@@ -25,7 +25,7 @@ tags:
 - recuperar pestañas cerradas
 ---
 
-Después de que en Julio os estuviese hablando sobre las [diferencias entre Firefox y Chromium](http://lopezpino.es/2010/07/18/%c2%bfchromium-o-firefox/), decidí cambiar el primero por el segundo principalmente por la falta de **estabilidad** de Firefox. Ahora que llevo un tiempo acostumbrado a usar Chromium, quiero hablaros de las opciones que echo en falta tras la migración.
+Después de que en Julio os estuviese hablando sobre las [diferencias entre Firefox y Chromium](http://lopezpino.com/2010/07/18/%c2%bfchromium-o-firefox/), decidí cambiar el primero por el segundo principalmente por la falta de **estabilidad** de Firefox. Ahora que llevo un tiempo acostumbrado a usar Chromium, quiero hablaros de las opciones que echo en falta tras la migración.
 
 
 ### Live bookmarks

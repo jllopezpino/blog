@@ -26,11 +26,11 @@ tags:
 - yahoo pipes
 ---
 
-Ayer os comentaba el método que utilizo para [autodescargar series](http://lopezpino.es/2010/07/07/autodescargar-series/), pero como no domino demasiado el inglés suelo necesitar también **subtítulos** para ver las series.
+Ayer os comentaba el método que utilizo para [autodescargar series](http://lopezpino.com/2010/07/07/autodescargar-series/), pero como no domino demasiado el inglés suelo necesitar también **subtítulos** para ver las series.
 
 Existen programas que automáticamente los descargan como [SubDownloader](http://subdownloader.net/), sin embargo, no he conseguido buenos resultados con ellos. Por lo tanto, he tenido que idear un método para descargarlos.
 
-**Actualización**: he publicado otra entrada sobre cómo [autodescargar subtítulos de Subtitulos.es](http://lopezpino.es/2010/10/02/autodescargar-subtitulos-de-subtitulos-es/)
+**Actualización**: he publicado otra entrada sobre cómo [autodescargar subtítulos de Subtitulos.es](http://lopezpino.com/2010/10/02/autodescargar-subtitulos-de-subtitulos-es/)
 
 
 ## Crear el feed con Yahoo Pipes

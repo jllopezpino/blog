@@ -19,7 +19,7 @@ tags:
 - web security
 ---
 
-La seguridad es uno de los temas que más me gusta, por lo que estoy aprovechando el verano para aprender más sobre seguridad web mediante blogs y un par de libros como [Web Security Testing Cookbook](http://lopezpino.es/2010/07/13/web-security-testing-cookbook/). Por lo tanto, voy a escribir unas pocas entradas sobre el tema, esta primera recogiendo unos pocos consejos muy básicos sobre el tema. En este caso estoy pensando en la seguridad web, pero serían aplicables a casi cualquier software.
+La seguridad es uno de los temas que más me gusta, por lo que estoy aprovechando el verano para aprender más sobre seguridad web mediante blogs y un par de libros como [Web Security Testing Cookbook](http://lopezpino.com/2010/07/13/web-security-testing-cookbook/). Por lo tanto, voy a escribir unas pocas entradas sobre el tema, esta primera recogiendo unos pocos consejos muy básicos sobre el tema. En este caso estoy pensando en la seguridad web, pero serían aplicables a casi cualquier software.
 
 
 

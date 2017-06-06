@@ -23,7 +23,7 @@ tags:
 - zoom
 ---
 
-Durante la [presentación de Firefox](http://www.slideshare.net/jlpino/introduccin-a-firefox) que, como [comenté](http://lopezpino.es/2010/07/14/extensiones-para-firefox/), solía hacer para la [Oficina de Software Libre](http://osl.ugr.es), también daba algunas recomendaciones de navegación que me gustaría ampliar y explicar aquí.
+Durante la [presentación de Firefox](http://www.slideshare.net/jlpino/introduccin-a-firefox) que, como [comenté](http://lopezpino.com/2010/07/14/extensiones-para-firefox/), solía hacer para la [Oficina de Software Libre](http://osl.ugr.es), también daba algunas recomendaciones de navegación que me gustaría ampliar y explicar aquí.
 
 
 
@@ -67,7 +67,7 @@ Muchos de los sitios están preparados para resoluciones de pantalla antiguas y 
 
 No facilites tu nombre, apellido, dirección y código postal a toda la página que te lo solicite. No tienes por qué rellenar más datos que los marcados como obligatorios, ni tienes por qué decir la verdad.
 
-Para no publicar tu dirección de correo electrónico puedes emplear [Mailinator](http://www.mailinator.com/) o [Trashmail](http://trashmail.net/), aunque en algunos sitios están vetados. También se puede emplear bugmenot que se puede utilizar cómodamente mediante una [extensión para Firefox](http://lopezpino.es/2010/07/14/extensiones-para-firefox/).
+Para no publicar tu dirección de correo electrónico puedes emplear [Mailinator](http://www.mailinator.com/) o [Trashmail](http://trashmail.net/), aunque en algunos sitios están vetados. También se puede emplear bugmenot que se puede utilizar cómodamente mediante una [extensión para Firefox](http://lopezpino.com/2010/07/14/extensiones-para-firefox/).
 
 También es muy conveniente que no utilices siempre la **misma contraseña**. Si en un sitio web introduces tu dirección de correo electrónico y la misma contraseña que usas para acceder a él, estás dándole a alguien una llave para que entre a él. Hay diversas extensiones que [generan contraseñas](http://mashable.com/2008/11/05/password-management-for-firefox-3/), aunque es suficiente con que no utilices tus contraseñas importantes en cualquier sitio por el que pases.
 

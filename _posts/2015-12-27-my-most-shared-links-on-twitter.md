@@ -14,7 +14,7 @@ The links that I shared on Twitter this year reached an audience of more than 10
 This excuse was enough for me to create (yet another) year-end list with the most popular links I shared on Twitter in 2015.
 
 
-It doesn't come as a surprised that most of them are related to statistics and data science and also most of them were part of my list of [data science and data analysis resources](http://lopezpino.es/2015/10/13/75-online-resources-data-science-and-analysis/).
+It doesn't come as a surprised that most of them are related to statistics and data science and also most of them were part of my list of [data science and data analysis resources](http://lopezpino.com/2015/10/13/75-online-resources-data-science-and-analysis/).
 
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">The central limit theorem explained with bunnies and dragons: <a href="https://t.co/kZOQQ4FlnO">https://t.co/kZOQQ4FlnO</a></p>&mdash; José Luis López Pino (@jllopezpino) <a href="https://twitter.com/jllopezpino/status/671960865646710784">December 2, 2015</a></blockquote>
