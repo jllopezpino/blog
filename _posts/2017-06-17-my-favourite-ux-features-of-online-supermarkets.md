@@ -11,6 +11,12 @@ image:
 
 It was announced recently that Amazon is about to acquire Whole Foods Market for $13.7 in that would be the biggest transaction ever for Amazon.
 Although Amazon is gearing up a way bigger brick-and-mortar retail presence, I believe that the end plan is to convince customers to shop online.
+
+<center>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The day Amazon becomes a direct competitor to your company. <a href="https://t.co/QP9KDWksSi">pic.twitter.com/QP9KDWksSi</a></p>&mdash; Bret Taylor (@btaylor) <a href="https://twitter.com/btaylor/status/875712856846516225">June 16, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+
 FMI-Nielsen report predicts that
 [online supermarkets will grab 20% of the American market by 2025](http://www.cnbc.com/2017/01/30/online-grocery-sales-set-surge-grabbing-20-percent-of-market-by-2025.html).
 The leaders in [June 2016](https://www.kantarworldpanel.com/global/News/Global-e-commerce-grocery-market-has-grown-15-to-48bn) were South Korea (16.6% of the groceries are ordered online), Japan (7.2%) and UK (6.9%).
