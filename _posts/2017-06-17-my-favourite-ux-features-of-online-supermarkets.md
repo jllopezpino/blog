@@ -9,18 +9,23 @@ image:
     feature: old-days-of-technology.jpg
 ---
 
-I just learnt that a FMI-Nielsen report predicts that
+It was announced recently that Amazon is about to acquire Whole Foods Market for $13.7 in that would be the biggest transaction ever for Amazon.
+Although Amazon is gearing up a way bigger brick-and-mortar retail presence, I believe that the end plan is to convince customers to shop online.
+FMI-Nielsen report predicts that
 [online supermarkets will grab 20% of the American market by 2025](http://www.cnbc.com/2017/01/30/online-grocery-sales-set-surge-grabbing-20-percent-of-market-by-2025.html).
 The leaders in [June 2016](https://www.kantarworldpanel.com/global/News/Global-e-commerce-grocery-market-has-grown-15-to-48bn) were South Korea (16.6% of the groceries are ordered online), Japan (7.2%) and UK (6.9%).
-Surprisingly in USA this rate is only 1.4% and the Germany (1.2%) is the only industrial lagging behind the States.
+Surprisingly USA ranked 10th with only a 1.4% and Germany (1.2%) is the only "industrial country" lagging behind the States.
 
 
 It's been almost 7 years since I did my first order to an online supermarket.
-I always had good experiences ordering on Tesco, Amazon Pantry and Rewe.
+I always had good experiences ordering on Tesco (UK), Amazon Pantry and REWE (DE).
 I'm surprised by how fast the market is changing.
 Only 3 years ago features like barcode scanners or device consistency [were celebrated](https://econsultancy.com/blog/65330-14-cracking-ux-features-of-online-supermarkets/).
 
+
+I'm extremely curious to see what are going to be Amazon's next step in the online grocers space and how they want to improve the online shopping experience.
 This is a short list of features that keep me buying at online supermarkets in 2017.
+
 
 ## Free delivery for VIP customers
 
