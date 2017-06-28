@@ -81,3 +81,20 @@ CREATE TABLE private_schema.films (
     title       varchar(40) NOT NULL
 );
 {% endhighlight %}
+
+
+### Troubleshooting: no permissions to query tables in public schema
+
+Some users seem to have problems querying tables in the public schema after those changes:
+
+> ERROR:  permission denied for relation public_table_name
+
+
+If that's your case, you can solve it with the following queries:
+
+
+{% highlight sql %}
+GRANT ALL PRIVILEGES ON SCHEMA public TO public;
+GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA public TO public;
+ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT ALL PRIVILEGES ON TABLES TO public;
+{% endhighlight %}
