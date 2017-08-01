@@ -29,7 +29,7 @@ They even stopped the service, because they were not able to collect payments fr
 
 # 2.- Don't bother to collect payments from your customers
 
-I sent 3 times all the necessary documentation to O2 to be able to collect payments from my bank account. I event sent it always from one of their official shops.
+I sent 3 times all the necessary documentation to O2 to be able to collect payments from my bank account. I even sent always the documentation from one of their official shops.
 But apparently their incompetence didn't allow them to process it correctly, so I gave up after 3 tries and set up a standing order to transfer them the money monthly.
 
 
