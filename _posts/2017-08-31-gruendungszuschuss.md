@@ -3,7 +3,7 @@ layout: post
 title: Gründungszuschuss application
 excerpt: "Some hints on how to apply for the Gründungszuschuss founding grant"
 tags: [germany, founding grants, Gründungszuschuss]
-modified: 2017-08-28
+modified: 2017-08-31
 comments: true
 image:
     feature: old-days-of-technology.jpg
