@@ -50,7 +50,7 @@ GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA private_schema TO "User2";
 {% endhighlight %}
 
 
-### 4- Make sure that new users can't access the private schea unless permission is granted
+### 4- Make sure that new users can't access the private schema unless permission is granted
 
 
 {% highlight sql %}
