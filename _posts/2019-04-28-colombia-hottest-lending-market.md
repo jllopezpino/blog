@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Colombia can be the hottest lending market in the nearest future?
-excerpt: "Some hints on how to apply for the Gründungszuschuss founding grant"
+excerpt: "In this article, I explain why I think that Colombia is receiving from the lending industry is surprisingly low as compared to the size of the opportunity."
 tags: [fintech, lending, colombia]
 modified: 2019-04-28
 comments: true
@@ -28,7 +28,12 @@ However, I strongly believe that their surprise is not justified; and actually, 
 
 ## Current situation
 
-Currently, local companies like RapiCredit, Lineru, Nesqui or Biocredit, and also global groups like Credissimo are offerings loans of up to 1 million COP (about 300 USD). Their products and customer experience seem to be good enough; and so far, I'm not aware of any player that have left the market or gone out of business. Also, the SME loan market is getting some attention with solutions like Sempli. However, the attention that Colombia is receiving from the lending industry is surprisingly low as compared to the size of the opportunity.
+Currently, local companies like RapiCredit, Lineru, Kredicity, Nesqui or Presta En Línea, and also global groups like Credissimo are offerings loans of up to 1 million COP (about 300 USD).
+Their products and customer experience seem to be good enough; and so far, I'm not aware of any player that have left the market or gone out of business.
+Also,
+lead brokers like [Presty](https://presty.co), KreditiWeb, Ask Robin and Biocredit are gaining momentum
+and the SME loan market is getting some attention with solutions like Sempli and Gulungo.
+However, the attention that Colombia is receiving from the lending industry is surprisingly low as compared to the size of the opportunity.
 
 Colombia is currently the 4th economy in LatAm, not far from Argentina. They have a stable currency, a healthy growth rate and last but not the least, a noticeable increase in safety that is attracting foreign investments
 
