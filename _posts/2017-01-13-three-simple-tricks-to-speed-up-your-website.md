@@ -146,6 +146,6 @@ Remember to only do refer load with those resources that are not essential and t
 
 Update (2019-05-04): More than two years later and Google Pagespeed still give this website a speed score of 97 / 100 (98 / 100 for desktop).
 <br>
-<a href="/images/2019-04-23_pagespeed_insight_tricks.png">
-	<img class="aligncenter" src="/images/2019-04-23_pagespeed_insight_tricks.png" alt="Google PageSpeed tricks results" width="600"/>
+<a href="/images/2019-05-04_pagespeed_insight_tricks.png">
+	<img class="aligncenter" src="/images/2019-05-04_pagespeed_insight_tricks.png" alt="Google PageSpeed tricks results" width="600"/>
 </a>
