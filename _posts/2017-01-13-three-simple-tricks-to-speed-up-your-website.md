@@ -3,7 +3,7 @@ layout: post
 title: 3 simplest and most effective tricks to speed up your website
 excerpt: "In less than an hour I was able to take the Google PageSpeed score of one of my websites from 41 to 80 by tracking the most severe (and basic) problems."
 tags: [web, page speed]
-modified: 2017-01-13
+modified: 2019-04-05
 comments: true
 image:
     feature: old-days-of-technology.jpg
@@ -145,7 +145,7 @@ Remember to only do refer load with those resources that are not essential and t
 ## Update
 
 Update (2019-05-04): More than two years later and Google Pagespeed still give this website a speed score of 97 / 100 (98 / 100 for desktop).
-<br>
+<br><br>
 <a href="/images/2019-05-04_pagespeed_insight_tricks.png">
 	<img class="aligncenter" src="/images/2019-05-04_pagespeed_insight_tricks.png" alt="Google PageSpeed tricks results" width="600"/>
 </a>
