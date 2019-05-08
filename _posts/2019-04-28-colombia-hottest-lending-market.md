@@ -14,13 +14,13 @@ image:
 
 Two years ago, I founded SHUTTLE99 and, since then, we have launched four profitable businesses / affiliate websites:
 
-- Mi Solvencia: promoting loans, credit cards, mortgages and bank accounts among Spanish customers.
+- [Mi Solvencia](https://misolvencia.es): promoting loans, credit cards, mortgages and bank accounts among Spanish customers.
 
-- Crédito Titán México: promoting loans, credit cards and debt relief companies among Mexican customers.
+- [Crédito Titán México](https://creditotitan.mx): promoting loans, credit cards and debt relief companies among Mexican customers.
 
-- Party Hostels: promoting party and social hostels among English-speaking customers.
+- [Party Hostels](https://partyhostels.org): promoting party and social hostels among English-speaking customers.
 
-- Credito Titán Colombia: promoting online credits among Colombian customers.
+- [Credito Titán Colombia](https://creditotitan.co): promoting online credits among Colombian customers.
 
 When I tell this story to people, reactions are the same: they think it was very obvious to launch in Mexico after Spain, they love the idea of Party Hostels, and they seem surprised that we are launching it in the Colombian market. Even people in the lending industry don't know much about what's happening in this market, and don't show much interest in it. In LatAm, most of the attention right now is paid to the Mexican Market, where both banks and online lenders are making juicy profits.
 
