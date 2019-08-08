@@ -45,7 +45,7 @@ I think regulators can, and should avoid usury and customer over indebtedness th
 
 ### 1) Colombians are highly underbanked
 
-Underbanking is a problem in Colombia (45% of Colombians have an account with a financial institution), but underbanking is a more pressing problem in the country. More than 41% of the population borrow money at least once a year, but less than 15% of Colombians borrowed from a financial institution. Around 10% of the population borrow money for educational purposes and also about 10% of Colombians borrow money for health purposes.
+Unbanking is a problem in Colombia (45% of Colombians have an account with a financial institution), but underbanking is a more pressing problem in the country. More than 41% of the population borrow money at least once a year, but less than 15% of Colombians borrowed from a financial institution. Around 10% of the population borrow money for educational purposes and also about 10% of Colombians borrow money for health purposes.
 
 ### 2) Mafias are taking advantage of Underbanked customers
 
