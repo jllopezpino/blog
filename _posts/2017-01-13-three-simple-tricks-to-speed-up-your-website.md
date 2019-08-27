@@ -40,7 +40,7 @@ $ jpegoptim -m20 *.jpg
 {% endhighlight %}
 
 
-# Expirty date in HTTP headers
+# Expiry date in HTTP headers
 
 This is what Google says regarding having a expiry date in the HTTP headers:
 
